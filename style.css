@@ -1,0 +1,20 @@
+*{background-color: #265f70;
+color: rgb(230, 233, 224);}
+.div img{
+     height: 50% ;
+width: 20%;
+}
+.div {
+    display: flex;
+}
+button{
+    padding:30px ;
+   font-size: 20px;
+   font-weight: bold;
+   background-color: rgb(64, 79, 161);
+   border-radius: 10px;
+}
+
+.div img{
+    width: 25%;
+}
